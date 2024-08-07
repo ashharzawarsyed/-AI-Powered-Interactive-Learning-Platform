@@ -1,0 +1,35 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0d1b2a;
+    padding: 1rem 2rem;
+  }
+  
+  .navigation .logo {
+    font-size: 1.5rem;
+    color: #fff;
+  }
+  
+  .navigation ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .navigation ul li {
+    margin: 0;
+  }
+  
+  .navigation ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: background 0.3s;
+  }
+  
+  .navigation ul li a:hover {
+    background: #1b263b;
+  }
+  
