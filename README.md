@@ -3,7 +3,7 @@ Learning Platform - A comprehensive learning management system (LMS) that includ
 
 **Instructions:**
 **1-Clone the Repository:**
-  git clone https://github.com/yourusername/LearningPlatform.git
+  git clone https://github.com/ashharzawarsyed/Breadcrumbs-AI-Powered-Interactive-Learning-Platform.git
   cd LearningPlatform
 
 **2-Install Dependencies:**
